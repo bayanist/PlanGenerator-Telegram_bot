@@ -1,1 +1,1 @@
-# PlanGenerator-Telegram_bot-
+# 🤖 PlanGenerator-Telegram_bot
